@@ -1,1 +1,1 @@
-# blog
+https://blog.lfzs.org
